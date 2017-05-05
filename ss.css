@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*border: 1px solid red;*/
+}
+
+.test {
+  width: 80vh;
+  height: 80vh;
+  margin: 10vh auto;
+  background: lime;
+  position: fixed;
+  left: -70vh;
+  transition: 4s;
+}
